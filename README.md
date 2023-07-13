@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xRad3Xx
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding, hacking
 - 🌱 I’m currently learning Kali Linux and Termux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me swissguy87@proton.me
